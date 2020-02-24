@@ -1,6 +1,12 @@
 body {
     font-family: sans-serif;
+<<<<<<< HEAD
     background-color: red;
     color: light goldenrod;
     line-height: 1.3em;
 }
+=======
+    background-color: #666;
+    color: #fff;
+}
+>>>>>>> dab1a40abfe52ee803d7227fc51c47f9c0b3f942
